@@ -21,22 +21,22 @@ const AboutMe = () => {
         className={styles.fotoSobreMim}
       />
       <p className={styles.paragrafo}>
-        Oi, tudo bem? Eu sou instrutor de Front-end na Alura e estou feliz de te ver por aqui.
+        Oi, tudo bem? Eu sou desenvolver full-stack na origin9 e estou feliz de te ver por aqui.
       </p>
       <p className={styles.paragrafo}>
-        Minha história com programação começou no Instituto Federal do Piauí (IFPI), quando fiz o ensino médio integrado ao curso de Informática. Eu aprendi lógica de programação e o básico de várias linguagens, como PHP, Python, Java, mas sem aprofundar muito em cada uma delas. Eu gostava muito de estudar programação, mas na época não fazia ideia de que trabalharia com isso hoje.
+        Minha trajetória na programação teve início quando me senti insatisfeito no meu emprego anterior na Dimep SP, onde atuava como analista de campo. Em uma conversa com meu amigo Tiago, que é programador, ele destacou meu raciocínio lógico e sugeriu que eu poderia ter sucesso na área de desenvolvimento de software. Influenciado por essa sugestão, segui a indicação dele para fazer um curso ministrado pelo instrutor backend Erick-Wendel, onde adquiri conhecimentos fundamentais de JavaScript, como tipos de variáveis, objetos e funções. Essa experiência despertou minha paixão pela programação, levando-me a decidir iniciar a faculdade.
       </p>
       <p className={styles.paragrafo}>
-        No ensino superior, escolhi cursar Engenharia Elétrica na Universidade Federal do Piauí (UFPI). Lá eu consegui entrar no PET (Programa de Educação Tutorial), um grupo acadêmico que contribui de diversas formas para o curso. Lá eu tive a oportunidade de estudar desenvolvimento web para ser um dos mantenedores do site deles.
+        Optei por cursar Análise e Desenvolvimento de Sistemas no Centro Universitário Campo Limpo Paulista (UNIFACCAMP) durante o ensino superior. Nessa jornada, concentrei-me em aprimorar meu raciocínio lógico, direcionando-me especialmente para a área de programação. Além disso, tive a oportunidade de aprofundar meus conhecimentos em desenvolvimento web.
       </p>
       <p className={styles.paragrafo}>
-        Com isso tive minha experiência de dev mais próxima da realidade, com prazos de implementação para o site, e aprendi muito enquanto codificava.
+        Foi então que decidi buscar uma oportunidade de estágio na área de desenvolvimento web. Encontrei uma vaga na prefeitura de Campo Limpo Paulista, para integrar a equipe da controladoria no cargo de estagiário frontend. Percebi que essa oportunidade unia duas paixões minhas: programação e a conveniência de trabalhar próximo à minha residência. Para minha alegria, fui selecionado para fazer parte desse time.
       </p>
       <p className={styles.paragrafo}>
-        E foi enquanto eu estava no PET que decidi procurar um estágio em desenvolvimento web. Eu encontrei uma vaga na Alura para o Scuba Team e percebi que ela aliava duas paixões minhas: programação e educação. Para minha felicidade, fui escolhido para fazer parte do time.
+        Desde então, minha jornada tem sido marcada por contínuos aprendizados. Quando estava prestes a completar um ano de estágio na prefeitura de Campo Limpo Paulista, recebi uma proposta para ingressar na Origin9, empresa na qual estou atualmente. Aqui, tenho a oportunidade de trabalhar em projetos full-stack, ampliando não apenas meus conhecimentos técnicos, mas também minha compreensão sobre como o universo do desenvolvimento opera em termos de datas de entrega e prazos.
       </p>
       <p className={styles.paragrafo}>
-        Desde então, tem sido aprenas aprendizados atrás de aprendizados. A Alura é uma escola não só para seus alunos e alunas, mas também para os colaboradores e colaboradoras. Hoje sou muito feliz de ter a oportunidade de trazer esses conteúdos ricos e encantadores para você. Espero que aprenda bastante!
+        Estou extremamente feliz por ter a oportunidade de contribuir para a construção de sistemas robustos e complexos, que desempenham um papel fundamental em auxiliar nossos clientes. Essa experiência tem sido enriquecedora, proporcionando um crescimento profissional significativo.
       </p>
       <p>
 

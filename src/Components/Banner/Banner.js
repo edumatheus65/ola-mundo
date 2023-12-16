@@ -13,8 +13,7 @@ const Banner = () => {
         </h1>
 
         <p className={styles.paragrafo}>
-        Bem-vindo ao meu repositório "MeuPortifolio"! Aqui você encontrará uma coleção dos meus projetos profissionais que representam minha jornada e habilidades na área de desenvolvimento.
-          {/* e espero que você encontre inspiração e conhecimento ao explorar este universo digital que construí com tanto carinho. Sinta-se à vontade para explorar e entrar em contato, será um prazer compartilhar ideias e experiências com você! :) */}
+          Bem-vindo ao meu repositório "ola-mundo"! Aqui você encontrará uma coleção de postagens referente a técnologia em diversas linguagens de programaçãona área de desenvolvimento.
         </p>
       </div>
 
